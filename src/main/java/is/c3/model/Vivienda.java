@@ -12,7 +12,7 @@ public interface Vivienda {
 	String getPropietario();
 
 	void setPropietario(String propietario);
-
+	
 	int getHabitaciones();
 
 	void setHabitaciones(int habitaciones);
